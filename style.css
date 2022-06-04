@@ -32,6 +32,9 @@ body{
     border: none;
     border-radius: 50%;
 }
+.btn1:hover, .back:hover, .btn2:hover {
+    background-color:rgb(14, 83, 83);
+}
 #plus{
     color: white;
     font-size: 25px;
@@ -68,6 +71,14 @@ body{
     border-radius: 20px;
 }
 .paris{
+    color: rgb(189, 81, 19);
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-left: 50px;
+    width: 70%;
+    font-size: 1.2rem;
+    border-bottom: 2px solid grey;
+}
+.paris2{
     color: rgb(189, 81, 19);
     font-family: 'Noto Sans JP', sans-serif;
     margin-left: 50px;
